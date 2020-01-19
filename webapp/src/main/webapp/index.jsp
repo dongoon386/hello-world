@@ -1,2 +1,2 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> deploying from container.... </h2>
+<h2> deploying from container.... using ansible </h2>
